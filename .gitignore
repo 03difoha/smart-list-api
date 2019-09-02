@@ -1,0 +1,6 @@
+logs
+*.log
+SL.code-workspace
+npm-debug.log*
+node_modules/
+.env
